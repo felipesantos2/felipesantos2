@@ -1,4 +1,6 @@
-### Hi there 👋
+###olá 👋<br>
+###Meu nome é Felipe <br>
+###Atualmente eu estou estudando HTML e CSS
 
 <!--
 **felipesantos2/felipesantos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
