@@ -1,6 +1,6 @@
 ###olá 👋<br>
 ###Meu nome é Felipe <br>
-###Atualmente eu estou estudando HTML e CSS
+###Atualmente eu estou estudando HTML e CSS<br>
 ###Wordpress e php
 
 <!--
