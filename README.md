@@ -1,9 +1,9 @@
 ###olá 👋<br>
 ###Meu nome é Felipe <br>
 ###Atualmente eu estou estudando HTML e CSS<br>
-###Wordpress e php
-###Depois Laravel
-<br>
+###Wordpress e php<br>
+###No futuro eu vou pro laravel<br>
+depois que eu me sentir bem com HTML, CSS e o PHP
 ###meta de virar um dev
 
 <!--
