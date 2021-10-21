@@ -2,6 +2,7 @@
 ###Meu nome é Felipe <br>
 ###Atualmente eu estou estudando HTML e CSS<br>
 ###Wordpress e php
+###Depois Laravel
 <br>
 ###meta de virar um dev
 
