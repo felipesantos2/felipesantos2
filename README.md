@@ -3,7 +3,7 @@
 ###Atualmente eu estou estudando HTML e CSS<br>
 ###Wordpress e php
 <br>
-##meta de virar um dev
+###meta de virar um dev
 
 <!--
 **felipesantos2/felipesantos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
