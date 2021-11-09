@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+[! [Estatísticas GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra )] (https://github.com/anuraghazra/github-readme-stats)
