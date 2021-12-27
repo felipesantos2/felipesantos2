@@ -7,7 +7,6 @@ depois que eu me sentir bem com HTML, CSS e o PHP<br>
 ###meta de virar um dev
 
 
-**felipesantos2/felipesantos2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
 
