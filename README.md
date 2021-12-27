@@ -1,11 +1,11 @@
-<!-- ###olá 👋<br>
-###Meu nome é Felipe <br>
-###Atualmente eu estou estudando HTML e CSS<br>
-###Wordpress e php<br>
-###No futuro eu vou pro laravel<br>
-depois que eu me sentir bem com HTML, CSS e o PHP<br>
-###meta de virar um dev
- -->
+### olá 👋<br>
+### Meu nome é Felipe <br>
+### Atualmente eu estou estudando HTML/CSS Wordpress e PHP<br>
+### Me tornar um Dev Wordpress
+<br>
+### No futuro eu vou pro laravel<br>
+### meta de virar um dev
+
 
 <!--
 Here are some ideas to get you started:
