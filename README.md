@@ -1,4 +1,4 @@
-###olá 👋<br>
+<!-- ###olá 👋<br>
 ###Meu nome é Felipe <br>
 ###Atualmente eu estou estudando HTML e CSS<br>
 ###Wordpress e php<br>
@@ -21,3 +21,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ -->
+ 
+ ### Hi there 👋, Meu nome é Felipe
+#### Eu sou u estudante de TI
+Fascinado por tecnologia
+
+Skills:  HTML /CSS / PHP / MySQl 
+
+- 🔭 I’m currently working on @RKM Sistemas 
+- 🌱 I’m currently learning HTML/CSS/PHP 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/felipesantos2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Felipe_21_)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos2)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipesantos2)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=felipesantos2)  
+
+![Profile views](https://gpvc.arturio.dev/felipesantos2)  
