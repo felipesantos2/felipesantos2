@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 
  -->
  
- ###Olá👋, Meu nome é Felipe
+### Olá 👋, Meu nome é Felipe
 #### Eu sou um estudante de TI
 Fascinado por tecnologia
 
 Skills:  HTML /CSS / PHP / MySQl 
 
 - 🔭 I’m currently working on @RKM Sistemas 
-- 🌱 I’m currently learning HTML/CSS/PHP 
+- 🌱 I’m currently learning HTML / CSS / PHP 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/felipesantos2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Felipe_21_)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos2)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=felipesantos2)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesantos2&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=felipesantos2)  
 
