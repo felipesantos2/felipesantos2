@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
  -->
  
- ### Hi there 👋, Meu nome é Felipe
-#### Eu sou u estudante de TI
+ ###Olá👋, Meu nome é Felipe
+#### Eu sou um estudante de TI
 Fascinado por tecnologia
 
 Skills:  HTML /CSS / PHP / MySQl 
