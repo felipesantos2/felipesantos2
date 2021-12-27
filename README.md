@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 <a href="https://codesandbox.io/u/felipesantos">Codesandbox</a><br>
 <a href="https://replit.com/@Felipecpu">Replit</a>
 
+<a href="https://pt.stackoverflow.com/users/261541/felipe"><img src="https://pt.stackoverflow.com/users/flair/261541.png" width="208" height="58" alt="perfil de Felipe  em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Felipe  em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
+
 
