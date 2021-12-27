@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -73,7 +72,3 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: activity
- 
-
-
-
