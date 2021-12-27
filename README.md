@@ -1,10 +1,10 @@
 ### olá 👋<br>
 ### Meu nome é Felipe <br>
 ### Atualmente eu estou estudando HTML/CSS Wordpress e PHP<br>
-### Me tornar um Dev Wordpress
+### Aprendendo a ser um Dev Wordpress
 <br>
 ### No futuro eu vou pro laravel<br>
-### meta de virar um dev
+### meta de virar um dev <br>
 
 
 <!--
