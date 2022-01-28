@@ -1,6 +1,6 @@
 ### olá 👋<br>
 ### Meu nome é Felipe <br>
-### Atualmente eu estou estudando HTML/CSS Wordpress e PHP<br>
+### Atualmente eu estou estudando HTML/CSS/bulmacss, Wordpress e PHP<br>
 ### Aprendendo a ser um Dev Wordpress
 <br>
 ### No futuro eu vou pro laravel<br>
