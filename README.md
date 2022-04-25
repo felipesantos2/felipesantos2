@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://codesandbox.io/u/felipesantos">Codesandbox</a><br>
 <a target="_blank" href="https://replit.com/@Felipecpu">Replit</a>
 
+[![card](https://github-readme-stats.vercel.app/api?username=felipesantos2&theme=default&show_icons=true)](https://github.com/felipesantos2/)
 
 
 
