@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <a href="https://pt.stackoverflow.com/users/261541/felipe"><img src="https://pt.stackoverflow.com/users/flair/261541.png" width="208" height="58" alt="perfil de Felipe  em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Felipe  em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a> -->
 <a target="_blank" href="https://stackblitz.com/@felipesantos2">Stackblitz</a><br>
 <a target="_blank" href="https://codesandbox.io/u/felipesantos">Codesandbox</a><br>
-<a target="_blank" href="https://codepen.io/Felipe200321">Codepen</a><br>
-<a target="_blank" href="https://replit.com/@Felipecpu">Replit</a>
+<!-- <a target="_blank" href="https://codepen.io/Felipe200321">Codepen</a><br> -->
+<!-- <a target="_blank" href="https://replit.com/@Felipecpu">Replit</a> -->
 <!-- 
 
 [![card](https://github-readme-stats.vercel.app/api?username=felipesantos2&theme=dark&show_icons=true)](https://github.com/felipesantos2/) -->
@@ -42,5 +42,13 @@ Here are some ideas to get you started:
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql"></code>
 </div>
 
+<!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-css">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"> 
+<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
+ -->
 
 
