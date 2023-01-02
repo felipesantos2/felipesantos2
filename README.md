@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <a href="https://pt.stackoverflow.com/users/261541/felipe"><img src="https://pt.stackoverflow.com/users/flair/261541.png" width="208" height="58" alt="perfil de Felipe  em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Felipe  em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a> -->
 <a target="_blank" href="https://stackblitz.com/@felipesantos2">Stackblitz</a><br>
-<a target="_blank" href="https://codesandbox.io/u/felipesantos">Codesandbox</a><br>
+<!-- <a target="_blank" href="https://codesandbox.io/u/felipesantos">Codesandbox</a><br> -->
 <!-- <a target="_blank" href="https://codepen.io/Felipe200321">Codepen</a><br> -->
 <!-- <a target="_blank" href="https://replit.com/@Felipecpu">Replit</a> -->
 <!-- 
