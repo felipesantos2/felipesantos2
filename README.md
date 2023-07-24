@@ -2,7 +2,7 @@
 ### Meu nome é Felipe <br>
 <!--### Atualmente eu estou estudando HTML/CSS Wordpress e PHP<br>
 ### Dev Wordpress-->
-### Stack [ Wordpress - PHP - MySql - Laravel - Tailwindcss ]
+### Stack [ Wordpress , PHP , MySql , Laravel , Tailwindcss ]
 <br>
 <!-- ### No futuro laravel<br>
 ### meta de virar um dev <br> -->
