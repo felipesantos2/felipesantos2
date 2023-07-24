@@ -8,7 +8,7 @@
 ### meta de virar um dev <br> -->
 ### Metas -> Virar um dev Backend
 
-##### Pretendo ficar bom nas tecnologias que estou iniciando
+<!-- ##### Pretendo ficar bom nas tecnologias que estou iniciando -->
 <!--
 Here are some ideas to get you started:
 
