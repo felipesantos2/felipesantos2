@@ -6,7 +6,7 @@
 <br>
 <!-- ### No futuro laravel<br>
 ### meta de virar um dev <br> -->
-### Dev Back-end
+### Dev Backend
 
 <!-- ##### Pretendo ficar bom nas tecnologias que estou iniciando -->
 <!--
