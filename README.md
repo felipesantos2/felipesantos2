@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
  -->
+ 
 
- <iframe src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H">via GIPHY</a></p>
+ <iframe src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe><p><a href="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H">via GIPHY</a></p>
 
 
