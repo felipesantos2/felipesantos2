@@ -4,5 +4,3 @@ Back-end **PHP** Developer
 -- Laravel, Livewire, Tailwindcss, AlpineJs, FilamentPHP | Tallstack
 <br>
 -- MySQL, SQlite
-<br>
--- Docker, Linux Environments.
