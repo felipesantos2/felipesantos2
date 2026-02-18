@@ -8,3 +8,5 @@ I have experience in:
 -- MySQL, SQlite
 <br>
 -- Docker
+<br>
+Some experience with Python scripts that automate my life 🐍
