@@ -9,4 +9,5 @@ I have experience in:
 <br>
 -- Docker
 <br>
-Some experience with Python scripts that automate my life 🐍
+Some experience with Python scripts that automate my life 🐍 <br>
+Currently studying some aspects of Linux (bash scripts) to automate my OS natively.
