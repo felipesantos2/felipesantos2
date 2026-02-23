@@ -1,4 +1,4 @@
-Hi, I'm Felipe 👋 <hr>
+Hi, I'm Felipe 👋 <br>
 
 Back-end **PHP** Developer &#128024;
 <br> 	
