@@ -18,10 +18,10 @@ Some experience with Python scripts that automate my life 🐍
 Currently exploring **Node.js** and JavaScript ecosystem to build tools and understand more about the runtime side of applications ⚙️
 <br>
 
-🐧 Currently studying some aspects of **Linux (bash scripts)** to automate my OS natively.
+🐧 Studying some aspects of **Linux (bash scripts)** to automate my OS natively.
 <br>
 
-Always learning about **software architecture**, systems and how things work behind the scenes 🚀
+Always learning about **software architecture**, systems and how things works 🚀
 
 ## Topics currently killing me 💀📚
 
