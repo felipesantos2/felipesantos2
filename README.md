@@ -27,7 +27,7 @@ Always learning about **software architecture**, systems and how things works �
 
 -- Node.js and JavaScript ecosystem <br>
 -- Linux and bash scripting 🐧 <br>
--- Docker and infrastructure 🐳
+-- Docker and infrastructure 🐳<br>
 -- Software architecture and design patterns <br>
 -- Backend development and APIs <br>
 -- Systems and how software works under the hood ⚙️ <br>
