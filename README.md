@@ -31,7 +31,6 @@ Always learning about **software architecture**, systems and how things works �
 -- Software architecture and design patterns <br>
 -- Backend development and APIs <br>
 -- Technical English 🌎💀 <br>
-<hr>
 -- Damn *automated tests* 💀
 
 
