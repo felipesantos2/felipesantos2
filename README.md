@@ -30,7 +30,6 @@ Always learning about **software architecture**, systems and how things works �
 -- Docker and infrastructure 🐳<br>
 -- Software architecture and design patterns <br>
 -- Backend development and APIs <br>
-<!-- -- Systems and how software works under the hood ⚙️ <br> -->
 -- Technical English 🌎💀 <br>
 <hr>
 -- Damn *automated tests* 💀
@@ -38,7 +37,7 @@ Always learning about **software architecture**, systems and how things works �
 
 ### GOODI BII 👋
 
-
+<!-- -- Systems and how software works under the hood ⚙️ <br> -->****
 <!-- Hi, I'm Felipe 👋 <br>
 
 Back-end **PHP** Developer &#128024;
