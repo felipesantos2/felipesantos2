@@ -34,13 +34,14 @@ Always learning about **software architecture**, systems and how things works �
 -- Damn *automated tests* 💀
 
 
-### GOODI BII 👋
-
 ## What I'm building now
 
-- 🏗️ Small PHP framework experiments
+-  Small PHP Framework
 - 🔥 Laravel applications
-- 🧪 Testing and architecture studies
+
+
+### GOODI BII 👋
+
 
 <!-- -- Systems and how software works under the hood ⚙️ <br> -->****
 <!-- Hi, I'm Felipe 👋 <br>
