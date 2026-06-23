@@ -36,6 +36,12 @@ Always learning about **software architecture**, systems and how things works �
 
 ### GOODI BII 👋
 
+## What I'm building now
+
+- 🏗️ Small PHP framework experiments
+- 🔥 Laravel applications
+- 🧪 Testing and architecture studies
+
 <!-- -- Systems and how software works under the hood ⚙️ <br> -->****
 <!-- Hi, I'm Felipe 👋 <br>
 
