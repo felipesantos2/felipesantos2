@@ -36,8 +36,8 @@ Always learning about **software architecture**, systems and how things works �
 
 ## What I'm building now
 
--  Small PHP Framework
-- 🔥 Laravel applications
+-  🔥 Small PHP Framework
+-  Laravel applications
 
 
 ### GOODI BII 👋
