@@ -12,10 +12,10 @@ I have experience with:
 -- Docker 🐳
 <br>
 
-Some experience with Python scripts that automate my life 🐍
+Building Python scripts to automate repetitive tasks ⚙️
 <br>
 
-Currently exploring **Node.js** and JavaScript ecosystem to build tools and understand more about the runtime side of applications ⚙️
+Exploring Node.js, JavaScript runtime internals and application architecture
 <br>
 
 🐧 Studying some aspects of **Linux (bash scripts)** to automate my OS natively.
