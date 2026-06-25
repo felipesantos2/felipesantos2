@@ -36,7 +36,7 @@ Always learning about **software architecture**, systems and how things works ðŸ
 
 ## What I'm building now
 
--  Small PHP Framework [repo](https://github.com/felipesantos2/phpmiro)
+-  [Small PHP Framework](https://github.com/felipesantos2/phpmiro)
 -  Laravel applications
 
 
