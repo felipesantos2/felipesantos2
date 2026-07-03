@@ -29,7 +29,7 @@ Always learning about **software architecture**, systems and how things works �
 -- Linux and Bash Scripting 🐧 <br>
 -- Docker and Infrastructure 🐳<br>
 -- Software Architecture and Design Patterns <br>
--- API Rest Design <br>
+-- REST API Design <br>
 -- Damn *Automated Tests* 💀 <br>
 -- Technical English 🌎💀
 
