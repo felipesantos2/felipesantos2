@@ -26,12 +26,12 @@ Always learning about **software architecture**, systems and how things works �
 ## Topics currently killing me 💀📚
 
 -- Node.js and JavaScript ecosystem <br>
--- Linux and bash scripting 🐧 <br>
--- Docker and infrastructure 🐳<br>
--- Software architecture and design patterns <br>
--- Backend development and APIs <br>
+-- Linux and Bash Scripting 🐧 <br>
+-- Docker and Infrastructure 🐳<br>
+-- Software Architecture and Design Patterns <br>
+-- API Rest Design <br>
+-- Damn *Automated Tests* 💀
 -- Technical English 🌎💀 <br>
--- Damn *automated tests* 💀
 
 
 ## What I'm building now
