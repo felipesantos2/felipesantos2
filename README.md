@@ -19,8 +19,8 @@ Always learning about **software architecture**, systems and how things works �
 -- Docker and Infrastructure 🐳<br>
 -- Software Architecture and Design Patterns <br>
 -- REST API Design <br>
--- Damn *Automated Tests* 💀 <br>
--- Technical English 🌎💀
+-- Damn *Automated Tests*  <br>
+-- Technical English 🌎
 
 
 ## What I'm building now
