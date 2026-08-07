@@ -1,20 +1,15 @@
-Hi, I'm Felipe 👋
-
+Hi, I'm Felipe 👋 <br>
 Back-end **PHP** Developer &#128024;
 
-I have experience with:
-
+I have experience with: <br>
 -- Laravel, Livewire, Tailwindcss, AlpineJs, FilamentPHP, MySQL, SQLite, Docker 🐳
 
 Building Python scripts to automate repetitive tasks.
 Exploring Node.js, JavaScript runtime internals and application architecture.
 
-🐧 Studying some aspects of **Linux (bash scripts)** to automate my OS natively.
-
-Always learning about **software architecture**, systems and how things works 🚀
+🐧 Studying some aspects of **Linux (bash scripts)** to automate my OS natively. Always learning about **software architecture**, systems and how things works 🚀
 
 ## Topics currently killing me 💀
-
 -- Node.js and JavaScript ecosystem <br>
 -- Docker and Infrastructure 🐳<br>
 -- Software Architecture and Design Patterns <br>
@@ -22,9 +17,7 @@ Always learning about **software architecture**, systems and how things works �
 -- Damn *Automated Tests*  <br>
 -- Technical English 🌎
 
-
 ## What I'm building now
-
 -  [Small PHP Framework](https://github.com/felipesantos2/phpmiro)
 -  Laravel applications
 
