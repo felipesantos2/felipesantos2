@@ -1,4 +1,28 @@
-Hi, I'm Felipe 👋 <br>
+
+# Hi, I'm Felipe 👋
+
+Back-end PHP Developer | Novo Cruzeiro, MG 🌎
+
+Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e Docker no dia a dia.
+Também ando brincando com Python pra automatizar coisa chata, e cutucando Node.js e Linux (bash) só pra entender como as coisas funcionam por dentro.
+
+### Topics currently killing me 💀
+- Node.js e o ecossistema JS
+- Docker e infra
+- Arquitetura de software e design patterns
+- REST API design
+- Testes automatizados (que eu ODEIO escrever, mas preciso)
+- Technical English
+
+### What I'm building now
+- Small PHP Framework
+- Umas aplicações Laravel
+
+GOODI BII 👋
+
+****
+
+<!-- Hi, I'm Felipe 👋 <br>
 Back-end **PHP** Developer &#128024;
 
 I have experience with: <br>
@@ -21,7 +45,7 @@ Exploring Node.js, JavaScript runtime internals and application architecture.
 -  [Small PHP Framework](https://github.com/felipesantos2/phpmiro)
 -  Laravel applications
 
-### GOODI BII 👋
+### GOODI BII 👋 -->
 
 
 <!-- -- Systems and how software works under the hood ⚙️ <br> -->****
