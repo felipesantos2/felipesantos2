@@ -3,15 +3,14 @@
 
 Back-end PHP Developer | Novo Cruzeiro, MG 🌎
 
-Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e Docker no dia a dia.
-Também ando brincando com Python pra automatizar coisa chata, e cutucando Node.js e Linux (bash) só pra entender como as coisas funcionam por dentro.
+Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e Docker no dia a dia. Ando brincando com Python pra automatizar uns processos chatos, e cutucando Node.js e Linux (bash) para entender esses comandos que usamos no automatico no dia a dia.
 
 ### Topics currently killing me 💀
 - Node.js e o ecossistema JS
 - Docker e infra
 - Arquitetura de software e design patterns
 - REST API design
-- Testes automatizados (que eu ODEIO escrever, mas preciso)
+- Testes automatizados (Chato demais!)
 - Technical English
 
 ### What I'm building now
