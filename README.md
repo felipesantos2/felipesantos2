@@ -17,7 +17,6 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 - Umas aplicações Laravel
 
 <!-- GOODI BII 👋 -->
-<!-- **** -->
 
 <!-- Hi, I'm Felipe 👋 <br>
 Back-end **PHP** Developer &#128024;
