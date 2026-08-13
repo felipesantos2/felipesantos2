@@ -11,15 +11,13 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 - Arquitetura de software e design patterns
 - REST API design
 - Testes automatizados (Chato demais!)
-- Technical English
 
 ### What I'm building now
 - Small PHP Framework
 - Umas aplicações Laravel
 
-GOODI BII 👋
-
-****
+<!-- GOODI BII 👋 -->
+<!-- **** -->
 
 <!-- Hi, I'm Felipe 👋 <br>
 Back-end **PHP** Developer &#128024;
