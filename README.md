@@ -13,5 +13,6 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 - Testes automatizados (Chato demais!)
 
 ### What I'm building now
+- [Dotfiles/Tool Updater](https://github.com/felipesantos2/dotfiles)
 - Small PHP Framework
 - Umas aplicações Laravel
