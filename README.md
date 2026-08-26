@@ -1,7 +1,7 @@
 
 # Hi, I'm Felipe 👋
 
-Back-end PHP Developer | Novo Cruzeiro, MG 🌎
+**Back-end Developer** | Novo Cruzeiro, MG 🌎
 
 Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e Docker no dia a dia. Ando brincando com Python pra automatizar uns processos chatos, e cutucando Node.js e Linux (bash) para entender esses comandos que usamos no automatico no dia a dia.
 
@@ -14,17 +14,15 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-### Topics currently killing me 💀
+### Foco Atual:
 - Node.js e o ecossistema JS
 - Docker e infra
 - Arquitetura de software e design patterns
 - REST API design
 - Testes automatizados com Pytest
 
-### What I'm building now
-- [Dotfiles/Tool Updater](https://github.com/felipesantos2/dotfiles)
-- [Small PHP Framework](https://github.com/felipesantos2/phpmiro)
-- Umas aplicações Laravel
+### Projetos Recentes:
+- [Dotfiles](https://github.com/felipesantos2/dotfiles) -> Scripts de automação para meu ambiente dev.
+- [Small PHP Framework](https://github.com/felipesantos2/phpmiro) -> Um micro-framework e estudo padrões como o Active Record e arquiteturas em camadas
+- Aplicações Laravel
