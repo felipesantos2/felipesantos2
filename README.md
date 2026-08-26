@@ -23,6 +23,6 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 - Testes automatizados com Pytest
 
 ### Projetos Recentes:
-- [Dotfiles](https://github.com/felipesantos2/dotfiles) -> Scripts de automação para meu ambiente dev.
-- [Small PHP Framework](https://github.com/felipesantos2/phpmiro) -> Um micro-framework e estudo padrões como o Active Record e arquiteturas em camadas
+- [Dotfiles](https://github.com/felipesantos2/dotfiles): Scripts de automação para meu ambiente dev.
+- [Small PHP Framework](https://github.com/felipesantos2/phpmiro): Um micro-framework e estudo padrões como o Active Record e arquiteturas em camadas
 - Aplicações Laravel
