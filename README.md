@@ -10,7 +10,7 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 - Docker e infra
 - Arquitetura de software e design patterns
 - REST API design
-- Testes automatizados (Chato demais!)
+- Testes automatizados com Pytest
 
 ### What I'm building now
 - [Dotfiles/Tool Updater](https://github.com/felipesantos2/dotfiles)
