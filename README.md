@@ -16,7 +16,6 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Foco Atual:
-- Node.js e o ecossistema JS
 - Docker e infra
 - Arquitetura de software e design patterns
 - REST API design
@@ -25,4 +24,5 @@ Trabalho com Laravel, Livewire, Tailwind, AlpineJS, FilamentPHP, MySQL, SQLite e
 ### Projetos Recentes:
 - [Dotfiles](https://github.com/felipesantos2/dotfiles): Scripts de automação para meu ambiente dev.
 - [Small PHP Framework](https://github.com/felipesantos2/phpmiro): Um micro-framework e estudo padrões como o Active Record e arquiteturas em camadas
+- [Rest Lab](https://github.com/felipesantos2/flask_rest_lab): Uma aplicação básica em Python e Flask para testes do padrão Rest
 - Aplicações Laravel
