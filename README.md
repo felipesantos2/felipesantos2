@@ -6,13 +6,37 @@
 
 Trabalho com Laravel, Livewire, Tailwind, FilamentPHP, MySQL e Docker no dia a dia. Ando esperimentando o Python pra automatizar uns processos chatos, e cutucando Node.js e Linux (bash) para entender esses comandos que usamos no automatico no dia a dia.
 
+<table>
+<tr>
+    <td>Stack:</td>
+    <td></td>
+</tr>
+  <tr>
+    <td>
+      <ul>
+        <li>PHP</li>
+        <li>MySQL</li>
+        <li>LIVEWIRE</li>
+        <li>WordPress</li>
+        <li>TailwindCSS</li>
+        <li>Docker</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://gitglance-eight.vercel.app/api/combined?username=felipesantos2&style=terminal&theme=terminal&title=Stats" />
+    </td>
+  </tr>
+</table>
+
+<!-- 
+
 <img src="https://gitglance-eight.vercel.app/api/combined?username=felipesantos2&style=terminal&theme=terminal&title=Stats" />
 
 ### Stack:
 
 - PHP, Laravel, MySQL, Livewire, WordPress, TailwindCSS, Docker
 
-<!-- 
+
 `Stack Principal:`
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
