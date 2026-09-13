@@ -3,21 +3,15 @@
 
 **Back-end Developer** | Novo Cruzeiro, MG 🌎
 
+
 Trabalho com Laravel, Livewire, Tailwind, FilamentPHP, MySQL e Docker no dia a dia. Ando esperimentando o Python pra automatizar uns processos chatos, e cutucando Node.js e Linux (bash) para entender esses comandos que usamos no automatico no dia a dia.
 
+<img src="https://gitglance-eight.vercel.app/api/combined?username=felipesantos2&style=terminal&theme=terminal&title=Stats" />
 
 ### Stack:
-<div style="display:flex">
 
-    <div>
-    - PHP, Laravel, MySQL, Livewire, WordPress, TailwindCSS, Docker
-    </div>
+- PHP, Laravel, MySQL, Livewire, WordPress, TailwindCSS, Docker
 
-    <div>
-    ![My GitHub stats](https://gitglance-eight.vercel.app/api/combined?username=felipesantos2&style=terminal&theme=terminal)
-    </div>
-
-<div>
 <!-- 
 `Stack Principal:`
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -39,5 +33,3 @@ Trabalho com Laravel, Livewire, Tailwind, FilamentPHP, MySQL e Docker no dia a d
 - [Small PHP Framework](https://github.com/felipesantos2/phpmiro): Um micro-framework e estudo padrões como o Active Record e arquiteturas em camadas
 - [Rest Lab](https://github.com/felipesantos2/flask_rest_lab): Uma aplicação básica em Python e Flask para testes do padrão Rest
 - Aplicações Laravel
-
-![My GitHub stats](https://gitglance-eight.vercel.app/api/combined?username=felipesantos2&style=terminal&theme=terminal)
