@@ -6,7 +6,7 @@
 
 Minha Stack de trabalho incluí o Laravel, Livewire, Tailwind, FilamentPHP, MySQL e Docker, mas ando experimentando o Python pra automatizar uns processos chatos, e cutucando Node.js e Linux (bash) para entender esses comandos que usamos no automatico no dia a dia.
 
-<table>
+<!-- <table>
 <tr>
     <td>Stack:</td>
     <td></td>
@@ -26,7 +26,7 @@ Minha Stack de trabalho incluí o Laravel, Livewire, Tailwind, FilamentPHP, MySQ
       <img src="https://gitglance-eight.vercel.app/api/combined?username=felipesantos2&style=terminal&theme=terminal&title=Stats" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- 
 
@@ -46,15 +46,24 @@ Minha Stack de trabalho incluí o Laravel, Livewire, Tailwind, FilamentPHP, MySQ
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
 
+Tools:
+
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
 ### Foco Atual:
-- Docker e infra
-- Mensageria e Integrações com Redis e RabbitMQ
-- Arquitetura de software e design patterns
+- Docker e infra/Servidores Web
+- Mensageria, Filas e Integrações com Redis e RabbitMQ
+- Arquitetura e Design Datterns
 - REST API design
 - Testes automatizados com Pytest
+- Autenticação e Autorização
 
 ### Projetos Recentes:
 - [Dotfiles](https://github.com/felipesantos2/dotfiles): Scripts de automação para meu ambiente dev.
 - [Small PHP Framework](https://github.com/felipesantos2/phpmiro): Um micro-framework e estudo padrões como o Active Record e arquiteturas em camadas
 - [Rest Lab](https://github.com/felipesantos2/flask_rest_lab): Uma aplicação básica em Python e Flask para testes do padrão Rest
-- Aplicações Laravel
+- [In_ventory](https://github.com/felipesantos2/in_ventory): Aplicação CodeIgniter/PHP, uma forma básica de gerir obrigações e patrimônio
