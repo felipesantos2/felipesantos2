@@ -4,7 +4,7 @@
 **Back-end Developer** | Novo Cruzeiro, MG 🌎
 
 
-Minha Stack de trabalho incluí o Laravel, Livewire, Tailwind, FilamentPHP, MySQL e Docker, mas ando experimentando o Python pra automatizar uns processos chatos, e cutucando Node.js e Linux (bash) para entender esses comandos que usamos no automatico no dia a dia.
+Minha Stack de trabalho inclui o Laravel, Livewire, Tailwind, FilamentPHP, MySQL e Docker, mas ando experimentando o Python pra automatizar uns processos chatos, e cutucando Node.js e Linux (bash) para entender esses comandos que usamos no automatico no dia a dia.
 
 <!-- <table>
 <tr>
@@ -59,7 +59,7 @@ Tools:
 ### Foco Atual:
 - Docker, Infra e Servidores Web
 - Mensageria, Filas e Integrações com Redis e RabbitMQ
-- Arquitetura e Design Datterns
+- Arquitetura e Design Patterns
 - REST API design
 - Testes automatizados com Pytest
 - Autenticação e Autorização
