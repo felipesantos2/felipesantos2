@@ -47,15 +47,6 @@ Minha Stack de trabalho inclui o Laravel, Livewire, Tailwind, FilamentPHP, MySQL
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
 
 
-Tools:
-
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-
 ### Foco Atual:
 - Docker, Infra e Servidores Web
 - Mensageria, Filas e Integrações com Redis e RabbitMQ
@@ -64,8 +55,13 @@ Tools:
 - Testes automatizados com Pytest
 - Autenticação e Autorização
 
-### Projetos Recentes:
-- [In_ventory](https://github.com/felipesantos2/in_ventory): Aplicação CodeIgniter/PHP, uma forma básica de gerir obrigações e patrimônio
-- [Dotfiles](https://github.com/felipesantos2/dotfiles): Scripts de automação para meu ambiente dev.
-- [Small PHP Framework](https://github.com/felipesantos2/phpmiro): Um micro-framework e estudo padrões como o Active Record e arquiteturas em camadas
-- [Rest Lab](https://github.com/felipesantos2/flask_rest_lab): Uma aplicação básica em Python e Flask para testes do padrão Rest
+
+Tools:
+
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![Filament](https://img.shields.io/badge/Filament-FDAE4B?logo=filament&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
